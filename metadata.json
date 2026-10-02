@@ -1,0 +1,6 @@
+{
+  "name": "NEXUSLOAD - Intelligent Cloud Task Load Balancer",
+  "description": "Real-time cloud infrastructure task load balancer demonstrating greedy scheduling algorithms, live server utilization pulse, dynamic decision tracing, and cloud capacity metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
